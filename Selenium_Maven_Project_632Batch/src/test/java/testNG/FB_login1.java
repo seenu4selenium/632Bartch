@@ -13,6 +13,7 @@ public class FB_login1 {
 	@BeforeClass // Launch the browser
 	public void beforeClass() {
 		driver = new ChromeDriver();
+		
 	}
 
 	@Test // Actual test cases
